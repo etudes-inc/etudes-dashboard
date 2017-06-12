@@ -1,0 +1,133 @@
+{
+	"cdp:status":"0",
+	
+	"motd":
+	[
+		{
+			"date": "Jul 29, 2013 2:37 PM",
+			"day": "Jul 29, 2013",
+			"from": "Glenn R. Golden",
+			"subject": "MOTD",
+			"body": "This is the <b>MOTD</b>, which is a lot of text to fit into a small space",
+			"siteTitle":"Etudes"
+		}
+	],
+
+	"announcements":
+	[
+		{
+			"siteId": "23432234-234234",
+			"siteTitle":"SOME SITE",
+			"date": "Jul 29, 2013 2:37 PM",
+			"day": "Jul 29, 2013",
+			"from": "Glenn R. Golden",
+			"subject": "An Announcement",
+			"body": "This is an <b>announcement</b>, which is a lot of text to fit into a small space",
+			"attachments":
+			[
+				{
+					"url": "http://www.apple.com",
+					"description": "Apple"
+				},
+				{
+					"url": "http://www.apple.com/iphone",
+					"description": "iPhone"
+				}
+			]
+		},
+		{
+			"siteId": "23432234-234234",
+			"siteTitle":"SOME SITE",
+			"date": "Jul 29, 2013 2:37 PM",
+			"day": "Jul 29, 2013",
+			"from": "Glenn R. Golden",
+			"subject": "An Announcement",
+			"body": "This is an announcement.  It goes on and on.  You can read about it here.  But it might not be all present."
+		},
+		{
+			"siteId": "23432234-234234",
+			"siteTitle":"SOME SITE",
+			"date": "Jul 29, 2013 2:37 PM",
+			"day": "Jul 29, 2013",
+			"from": "Glenn R. Golden",
+			"subject": "An Announcement",
+			"body": "This is an announcement"
+		},
+		{
+			"siteId": "23432234-234234",
+			"siteTitle":"SOME SITE",
+			"date": "Jul 29, 2013 2:37 PM",
+			"day": "Jul 29, 2013",
+			"from": "Glenn R. Golden",
+			"subject": "An Announcement",
+			"body": "This is an announcement"
+		},
+		{
+			"siteId": "23432234-234234",
+			"siteTitle":"SOME SITE",
+			"date": "Jul 29, 2013 2:37 PM",
+			"day": "Jul 29, 2013",
+			"from": "Glenn R. Golden",
+			"subject": "An Announcement",
+			"body": "This is an announcement"
+		}
+	],
+
+	"eventsDate": "Aug 02, 2013",
+	"eventsDateZone": " (EST)",
+
+	"events":
+	[
+		{
+			"siteId": "1232131321-123123",
+			"siteTitle": "SOME SITE",
+			"date": "",
+			"time": "Aug 06, 03:00 PM - Aug 06, 04:00 PM",
+			"duration": 30,
+			"type": "Meeting",
+			"description": "This is a meeting",
+			"location": "A room",
+			"title": "Title",
+			"attachments":
+			[
+				{
+					"url": "http://www.apple.com",
+					"description": "Apple"
+				},
+				{
+					"url": "http://www.apple.com/iphone",
+					"description": "iPhone"
+				}
+			]
+		},
+		{
+			"siteId": "1232131321-123123",
+			"siteTitle": "SOME SITE",
+			"date": "",
+			"time": "Aug 06, 05:00 PM - Aug 06, 06:00 PM",
+			"duration": 90,
+			"type": "Meeting",
+			"description": "Follup to the last meeting.",
+			"location": "Another room",
+			"title": "Title"
+		},
+		{
+			"siteId": "1232131321-123123",
+			"siteTitle": "SOME SITE",
+			"date": "",
+			"time": "Aug 06, 07:00 PM - Aug 06, 07:30 PM",
+			"duration": 30,
+			"type": "Call",
+			"description": "Conference call",
+			"location": "Conference Bridge C",
+			"title": "Title"
+		}
+	],
+	
+	"eventsDays":
+	{
+		"year": 2013,
+		"month": 8,
+		"days": [2,4,6,8,10]
+	}
+}

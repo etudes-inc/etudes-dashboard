@@ -1,0 +1,31 @@
+{
+	"cdp:status":"0",
+	
+	"eventsDate": "Aug 02, 2013",
+	"eventsDateZone": " (EST)",
+	"events":
+	[
+		{
+			"siteId": "1232131321-123123",
+			"siteTitle": "SOME SITE",
+			"date": "",
+			"time": "Aug 06, 03:00 PM - Aug 06, 04:00 PM",
+			"duration": 30,
+			"type": "Meeting",
+			"description": "This is a meeting",
+			"location": "A room",
+			"title": "Title"
+		},
+		{
+			"siteId": "1232131321-123123",
+			"siteTitle": "SOME SITE",
+			"date": "",
+			"time": "Aug 06, 05:00 PM - Aug 06, 06:00 PM",
+			"duration": 90,
+			"type": "Meeting",
+			"description": "Follup to the last meeting.",
+			"location": "Another room",
+			"title": "Title"
+		}
+	]
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+
+<registration>
+
+	<tool
+			id="e3.dashboard"
+			title="Dashboard"
+			description="User Dashboard"
+			dispatcher="E3"
+			e3Code="dashboard">
+
+	</tool>
+
+</registration>
